@@ -10,12 +10,15 @@
   },
   "dependencies": {
     "@astrajs/client": "^0.3.2",
+    "axios": "^0.24.0",
+    "faker": "^6.6.6",
     "next": "12.0.1",
     "react": "17.0.2",
     "react-dom": "17.0.2"
   },
   "devDependencies": {
     "eslint": "7.32.0",
-    "eslint-config-next": "11.1.0"
+    "eslint-config-next": "11.1.0",
+    "netlify-cli": "^8.8.2"
   }
 }
